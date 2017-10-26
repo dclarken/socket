@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1505810786 source:f:\tool\codeblock\netsrv\netsrv.cpp
+	<winsock2.h>
+	<stdio.h>
+	<windows.h>
+
+1505809865 source:f:\tool\codeblock\netsrv\main.cpp
+
