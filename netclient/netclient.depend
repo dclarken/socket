@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1505815560 source:f:\tool\codeblock\netclient\netclient.cpp
+	<Winsock2.h>
+	<stdio.h>
+
+1505809874 source:f:\tool\codeblock\netclient\main.cpp
+
